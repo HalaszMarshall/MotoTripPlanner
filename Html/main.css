@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    display: inline-block;
+}
+
+.kepsite{
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: bottom 40% right 0px;
+    background-attachment: fixed;
+    width: 50vw;
+    max-height: 70vh;
+    margin:0;
+    padding:0;
+}
