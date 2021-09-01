@@ -2,7 +2,12 @@ body{
     margin: 0px;
     display: inline-block;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
+    }
+
+    a:link,a:visited{
+        text-decoration: none;
+        color:blanchedalmond
+        }
 
 .kepsite{
     background-image: url("Background.jpg");
